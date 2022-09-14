@@ -1,0 +1,35 @@
+h1{
+    color: red;
+
+
+
+}
+
+a{
+color: #ff00ff ;
+font-size: 20px;
+
+}
+
+a:hover{
+    color: #ff0000 ;
+
+
+}
+
+.abc{
+    color: #ff00ff ;
+    text-shadow: 2px 3px red;
+}
+
+.bg{
+    background-color: #99ccff;
+
+}
+
+.bgimg{
+    background-image: url("../images/ก่อน.jpg" );
+
+
+
+}
